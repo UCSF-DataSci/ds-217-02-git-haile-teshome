@@ -9,3 +9,9 @@ Haile
 
 
 # [Python Official Website](https://www.python.org)
+
+
+## Pictures
+![Package Install](images/install_package.png)
+
+![Meme](images/big_miss_steak.jpg)
