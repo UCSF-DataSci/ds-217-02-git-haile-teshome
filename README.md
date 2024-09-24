@@ -14,4 +14,4 @@ Haile
 ## Pictures
 ![Package Install](images/install_package.png)
 
-![Meme](images/big_miss_steak.jpg)
+![Meme](images/big_miss_steak.JPG)
