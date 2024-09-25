@@ -1,3 +1,6 @@
+# Git Username:
+haile-teshome
+
 # Background
 Hello Professor Seaman,
 My name is Haile and I'm a student in your DATASCI 217 class, it was great to meet you yesterday! First, I attached my solution to the problem to this email and my Github profile is: "haile-teshome". 
