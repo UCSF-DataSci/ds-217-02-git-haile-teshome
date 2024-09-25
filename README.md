@@ -10,6 +10,19 @@ Second, a little about me is that I'm a first year Health Data Science masters s
 Looking forward to this course,
 Haile
 
+# Solution Problem 1
+print("Hello, Data Science")
+
+# Solution Problem 2
+limit = 1000
+
+def sum_of_multiples(limit):
+    return sum([num for num in range(limit) if num % 3 == 0 or num % 5 == 0])
+
+result = sum_of_multiples(limit)
+print(f"The sum of multiples of 3 or 5 at or below the {limit} is {result}")
+
+
 
 # [Python Official Website](https://www.python.org)
 
